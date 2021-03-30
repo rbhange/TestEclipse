@@ -1,0 +1,8 @@
+1. Create repository in git web
+2. Clone repository git clone "path"
+3. Create files in clone folder
+4. Check status by git status
+5. git add will add created file.
+6. git commit -m"text"
+7. git push
+8. git push origin "branch name" for multiple branches

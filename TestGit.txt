@@ -1,1 +1,3 @@
 checking git setup
+
+set up success
